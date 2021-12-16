@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "75f66b85-ceee-4be4-8d34-72c05f4a19d8": {
+      "ProjectGuid": "75f66b85-ceee-4be4-8d34-72c05f4a19d8",
+      "DisplayName": "RFL8CompatibilityChecker",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+C:\Users\rflth\Documents\GitHub\RFL8Compatibility-Checker\RFL8CompatibilityChecker\bin\Release\RFL8CompatibilityChecker.exe.config
+C:\Users\rflth\Documents\GitHub\RFL8Compatibility-Checker\RFL8CompatibilityChecker\bin\Release\RFL8CompatibilityChecker.exe
+C:\Users\rflth\Documents\GitHub\RFL8Compatibility-Checker\RFL8CompatibilityChecker\bin\Release\RFL8CompatibilityChecker.pdb
+C:\Users\rflth\Documents\GitHub\RFL8Compatibility-Checker\RFL8CompatibilityChecker\obj\Release\RFL8CompatibilityChecker.csproj.AssemblyReference.cache
+C:\Users\rflth\Documents\GitHub\RFL8Compatibility-Checker\RFL8CompatibilityChecker\obj\Release\RFL8CompatibilityChecker.csproj.SuggestedBindingRedirects.cache
+C:\Users\rflth\Documents\GitHub\RFL8Compatibility-Checker\RFL8CompatibilityChecker\obj\Release\RFL8CompatibilityChecker.Form1.resources
+C:\Users\rflth\Documents\GitHub\RFL8Compatibility-Checker\RFL8CompatibilityChecker\obj\Release\RFL8CompatibilityChecker.Properties.Resources.resources
+C:\Users\rflth\Documents\GitHub\RFL8Compatibility-Checker\RFL8CompatibilityChecker\obj\Release\RFL8CompatibilityChecker.csproj.GenerateResource.cache
+C:\Users\rflth\Documents\GitHub\RFL8Compatibility-Checker\RFL8CompatibilityChecker\obj\Release\RFL8CompatibilityChecker.csproj.CoreCompileInputs.cache
+C:\Users\rflth\Documents\GitHub\RFL8Compatibility-Checker\RFL8CompatibilityChecker\obj\Release\RFL8CompatibilityChecker.exe
+C:\Users\rflth\Documents\GitHub\RFL8Compatibility-Checker\RFL8CompatibilityChecker\obj\Release\RFL8CompatibilityChecker.pdb
