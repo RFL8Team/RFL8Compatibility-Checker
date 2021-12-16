@@ -1,0 +1,11 @@
+C:\Users\rflth\source\repos\RFL8CompatibilityChecker\RFL8CompatibilityChecker\bin\Debug\RFL8CompatibilityChecker.exe.config
+C:\Users\rflth\source\repos\RFL8CompatibilityChecker\RFL8CompatibilityChecker\bin\Debug\RFL8CompatibilityChecker.exe
+C:\Users\rflth\source\repos\RFL8CompatibilityChecker\RFL8CompatibilityChecker\bin\Debug\RFL8CompatibilityChecker.pdb
+C:\Users\rflth\source\repos\RFL8CompatibilityChecker\RFL8CompatibilityChecker\obj\Debug\RFL8CompatibilityChecker.csproj.AssemblyReference.cache
+C:\Users\rflth\source\repos\RFL8CompatibilityChecker\RFL8CompatibilityChecker\obj\Debug\RFL8CompatibilityChecker.csproj.SuggestedBindingRedirects.cache
+C:\Users\rflth\source\repos\RFL8CompatibilityChecker\RFL8CompatibilityChecker\obj\Debug\RFL8CompatibilityChecker.Properties.Resources.resources
+C:\Users\rflth\source\repos\RFL8CompatibilityChecker\RFL8CompatibilityChecker\obj\Debug\RFL8CompatibilityChecker.csproj.GenerateResource.cache
+C:\Users\rflth\source\repos\RFL8CompatibilityChecker\RFL8CompatibilityChecker\obj\Debug\RFL8CompatibilityChecker.csproj.CoreCompileInputs.cache
+C:\Users\rflth\source\repos\RFL8CompatibilityChecker\RFL8CompatibilityChecker\obj\Debug\RFL8CompatibilityChecker.exe
+C:\Users\rflth\source\repos\RFL8CompatibilityChecker\RFL8CompatibilityChecker\obj\Debug\RFL8CompatibilityChecker.pdb
+C:\Users\rflth\source\repos\RFL8CompatibilityChecker\RFL8CompatibilityChecker\obj\Debug\RFL8CompatibilityChecker.Form1.resources
